@@ -1,2 +1,2 @@
-# hello-world
-Hello, my name is Andrew.
+# Capstone
+This is my capstone paper.
